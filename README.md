@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eduardo2804
+- 👋 Hi, I’m Carlos Eduardo
 - 👀 I’m interested in software develompment and programming 
 - 🌱 I’m currently learning java, phynton, PHP and HTML
 - 💞️ I’m looking to collaborate on front-end and back-end projects
